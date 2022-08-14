@@ -1,2 +1,2 @@
 # Ambrosia-Floral
-Pagina herbaria sobres flore y sus caracteristicas
+Pagina herbaria sobres flores sus funciones y sus caracteristicas
